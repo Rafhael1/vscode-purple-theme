@@ -1,5 +1,7 @@
 {
 	"name": "Purple Rain",
+	"displayName": "purple-rain",
+	"description": "It doesn't really have anything to do with rain, I just thought it was a cool name",
 	"type": "dark",
 	"publisher": "RafhaelMarques",
 	"version": "1.0.0",
@@ -33,7 +35,6 @@
 		"menubar.selectionBackground": "#ff0000",
 		"editorGroupHeader.tabsBackground": "#302535",
 		"activityBarBadge.background": "#8b0aac",		
-		"notification.buttonBackground": "#8b0acf",
 		"editor.selectionBackground": "#adacac50",
 		"list.activeSelectionBackground": "#5f16758a",
 		
