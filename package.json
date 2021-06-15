@@ -1,0 +1,21 @@
+{
+    "name": "purple-rain",
+    "displayName": "Purple Rain",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Rain",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Rain-color-theme.json"
+            }
+        ]
+    }
+}
