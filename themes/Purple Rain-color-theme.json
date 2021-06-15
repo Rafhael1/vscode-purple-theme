@@ -2,10 +2,19 @@
 	"name": "Purple Rain",
 	"type": "dark",
 	"publisher": "RafhaelMarques",
+	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/Rafhael1/vscode-purple-theme"
 	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"purple",
+		"purple theme",
+		"purple dark theme",
+		"rafhael marques",
+	],
 	"colors": {
 		"sideBar.background": "#1b0d22",
 		"activityBar.background": "#2f183a",
