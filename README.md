@@ -1,3 +1,3 @@
 ## Purple rain
 
-It's dark purple theme for vscode
+It's a dark purple theme for vscode
