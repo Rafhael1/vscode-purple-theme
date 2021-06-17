@@ -3,20 +3,6 @@
 	"displayName": "purple-rain",
 	"description": "It doesn't really have anything to do with rain, I just thought it was a cool name",
 	"type": "dark",
-	"publisher": "RafhaelMarques",
-	"version": "1.0.0",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Rafhael1/vscode-purple-theme"
-	},
-	"keywords": [
-		"theme",
-		"dark theme",
-		"purple",
-		"purple theme",
-		"purple dark theme",
-		"rafhael marques",
-	],
 	"colors": {
 		"sideBar.background": "#1b0d22",
 		"activityBar.background": "#2f183a",
@@ -112,6 +98,15 @@
 			}
 		},
 		{
+			"name": "Operator, Misc",
+			"scope": [
+				"meta.tag",
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
@@ -119,7 +114,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#d672fd"
+				"foreground": "#ff37ac"
 			}
 		},
 		{
@@ -198,7 +193,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ae00ff"
+				"foreground": "#b700ff"
 			}
 		},
 		{
@@ -221,7 +216,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#d56cff"
+				"foreground": "#db80ff"
 			}
 		},
 		{
@@ -291,7 +286,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#ff469c"
+				"foreground": "#ff7ac3"
 			}
 		},
 		{

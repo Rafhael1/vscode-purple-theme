@@ -3,6 +3,19 @@
     "displayName": "Purple Rain",
     "description": "",
     "version": "0.0.1",
+    "publisher": "RafhaelMarques",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rafhael1/vscode-purple-theme"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"purple",
+		"purple theme",
+		"purple dark theme",
+		"rafhael marques"
+	],
     "engines": {
         "vscode": "^1.57.0"
     },
